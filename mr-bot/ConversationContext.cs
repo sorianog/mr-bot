@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 namespace mr-bot
 {
     public class ConversationContext
-{
-}
+    {
+    internal static string userName;
+    internal static string userMsg;
+    }
 }
